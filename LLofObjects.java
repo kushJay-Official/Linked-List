@@ -1,4 +1,4 @@
-#Progam for linked list creation which stores objects
+
 
 package linkedlist;
 
